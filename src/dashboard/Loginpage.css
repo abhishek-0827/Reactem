@@ -18,6 +18,7 @@ body
   backdrop-filter: blur(10px);
   border: 1px solid grey;
 }
+
 #admin
 {
   margin-left: 33%;
